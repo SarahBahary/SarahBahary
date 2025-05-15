@@ -22,6 +22,8 @@
 
 <a href="https://www.linkedin.com/in/sarah-mohammed-b8135a204/" target="_blank">
  <img src="https://img.shields.io/badge/Sarah%20Mohammed-0077B5?style=plastic&logo=linkedin&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Sarah%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 </a>
 <p align="center">
