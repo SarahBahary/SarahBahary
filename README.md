@@ -8,10 +8,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&duration=4997&pause=1000&color=232BF9&background=FFEFBD00&width=500&lines=A+Data+Scientist;Be+surrounded+with+first-class+people" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=4997&pause=1000&color=171515&background=FFEFBD00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=A+Data+Scientist;Be+surrounded+with+first-class+people" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at '' to see some of the projects I've worked on.
