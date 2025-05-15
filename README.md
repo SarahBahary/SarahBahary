@@ -21,7 +21,7 @@
 ### Connect with Me :
 
 
-<p align="center">
+<p>
   <a href="mailto:st473614@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
