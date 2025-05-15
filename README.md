@@ -1,10 +1,11 @@
 
 
 
-<h3 align="center">
+<h1 align="center" style="font-size: 40px; font-family: 'Playfair Display', serif;">
   Welcome to Sarah Mohammed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -12,9 +13,9 @@
 </p> 
 
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at '' to see some of the projects I've worked on.
+- As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+  
+- Check out my portfolio at '' to see some of the projects I've worked on.
 
 
 ### Connect with Me :
