@@ -23,10 +23,10 @@
 
 <p>
   <a href="mailto:st473614@gmail.com">
-    <img src="https://img.shields.io/badge/Email-st473614@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sarah-mohammed-b8135a204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarah%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
