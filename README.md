@@ -13,14 +13,10 @@
 - Passionate about **data science** and its real-world applications.  
 
 ### Skills  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61.svg?style=flat-square)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat-square&logo=matplotlib&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)  ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61.svg?style=flat-square)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat-square&logo=matplotlib&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
 
 ### Projects  
 | Project Name       | Description              | Link                |
