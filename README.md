@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=35&duration=4997&pause=1000&color=297EBE&background=FFEFBD00&center=true&vCenter=true&width=600&height=100&lines=A+Data+Scientist;Be+surrounded+with+first-class+people" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=35&duration=4997&pause=1000&color=297EBE&background=FFEFBD00¢er=true&vCenter=true&width=600&height=100&lines=A+Data+Scientist;Be+surrounded+with+first-class+people" alt="Typing SVG" /></a>
 </p>
 
 ### About Me  
@@ -15,12 +15,18 @@
 ### Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)  
 ![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61.svg?style=flat-square)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat-square&logo=matplotlib&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
 
 ### Projects  
 | Project Name       | Description              | Link                |
 |--------------------|--------------------------|---------------------|
-| Data Analysis      | Analyzed datasets with Python | [Link](#)          |
-| Machine Learning   | Built a model with TensorFlow | [Link](#)          |
+| [Your Project 1]   | [Brief description]      | [Link](#)           |
+| [Your Project 2]   | [Brief description]      | [Link](#)           |
 
 ### Connect with Me  
 <p align="center">
@@ -37,11 +43,7 @@
 
 ---
 
-Last updated: 05:36 PM EEST, June 18, 2025
-
-
-
-
+Last updated: 05:43 PM EEST, June 18, 2025
 
 
 
