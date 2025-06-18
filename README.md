@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=35&duration=4997&pause=1000&color=297EBE&background=FFEFBD00¢er=true&vCenter=true&width=600&height=100&lines=A+Data+Scientist;Be+surrounded+with+first-class+people" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=30F7A7&center=true&vCenter=true&width=435&height=82&lines=A+Data+Scientist" alt="Typing SVG" /></a>
 </p>
 
 ### About Me  
@@ -25,7 +25,7 @@
 ### Projects  
 | Project Name       | Description              | Link                |
 |--------------------|--------------------------|---------------------|
-| [Your Project 1]   | [Brief description]      | [Link](#)           |
+| []   | [Brief description]      | [Link](#)           |
 | [Your Project 2]   | [Brief description]      | [Link](#)           |
 
 ### Connect with Me  
