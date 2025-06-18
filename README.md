@@ -18,11 +18,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=flat-square&logo=matplotlib&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)  
 
-### Projects  
-| Project Name       | Description              | Link                |
-|--------------------|--------------------------|---------------------|
-| []   | [Brief description]      | [Link](#)           |
-| [Your Project 2]   | [Brief description]      | [Link](#)           |
 
 ### Connect with Me  
 <p align="center">
