@@ -9,7 +9,7 @@
 </p>
 
 ### About Me  
-- As a **CS student**, I am **constantly learning** and exploring new technologies to improve my skills.  
+- As a **CS learner**, I am **constantly learning** and exploring new technologies to improve my skills.  
 - Passionate about **data science** and its real-world applications.  
 
 ### Skills  
