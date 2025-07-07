@@ -60,4 +60,3 @@
 
 ---
 
-_Updated automatically: Last checked {{ date }}_
