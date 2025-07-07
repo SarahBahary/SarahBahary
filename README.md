@@ -30,8 +30,9 @@
 </p>
 
 ### GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarahBahary&show_icons=true&theme=radical)
-mm
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarahBahary&show_icons=true&theme=radical&cache_seconds=60)
+
+
 ---
 
 Last updated: 05:43 PM EEST, June 18, 2025
