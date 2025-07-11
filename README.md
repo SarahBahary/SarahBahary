@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SarahBahary&show_icons=true&theme=radical&cache_seconds=60" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahBahary&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=SarahBahary&theme=radical&date_format=M%20j%5B%2C%20Y%5D](https://github-readme-streak-stats.herokuapp.com?user=SarahBahary&theme=radical&date_format=M%20j%5B%2C%20Y%5D)" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBahary&layout=compact&theme=radical" alt="Top Languages" />
 </div>
