@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarahBahary&show_icons=true&theme=radical&cache_seconds=60" alt="Sarah's GitHub Stats" /> <br /> <img src="https://streak-stats.demolab.com?user=SarahBahary&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Sarah's GitHub Streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBahary&layout=compact&theme=radical" alt="Sarah's Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarahBahary&show_icons=true&theme=radical&cache_seconds=60" alt="Sarah's GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarahBahary&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Sarah's GitHub Streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBahary&layout=compact&theme=radical" alt="Sarah's Top Languages" /> </p>
 🔥 Passionate about building intelligent systems, contributing to open source, and constantly learning through code. These stats reflect my coding journey and dedication on GitHub.
 💡 Let’s connect and collaborate on innovative projects!
 
