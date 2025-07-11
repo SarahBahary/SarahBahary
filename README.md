@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SarahBahary&show_icons=true&theme=radical&cache_seconds=60" alt="Sarah's GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=sarahbahary" alt="Sarah's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sarahbahary&show_icons=true&theme=radical&cache_seconds=60" alt="Sarah's GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahBahary&layout=compact&theme=radical" alt="Sarah's Top Languages" />
 </p>
